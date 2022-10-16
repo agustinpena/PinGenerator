@@ -44,11 +44,11 @@ __Instalation & Usage__
 
 To run this script, just place all three files (_createpins.py, templaes.py, info.py_) in the same folder and then execute the main file _createpins.py_:
 
-```shell
+```console
 $ python createpins.py
 ```
 if the script is set internally to generate _n=3_ pins, then when the pins are created and saved, you will get a message:
-```shell
+```console
 $ Successfully created 3 pins
 ```
 You will find three brand new pins in the _saved_pins_ folder.
