@@ -1,2 +1,2 @@
-# pinsgenerator
-Pinterest Pins Generator Script
+# Pinterest Pins Generator Script
+
