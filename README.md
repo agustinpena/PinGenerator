@@ -19,7 +19,7 @@ I briefly describe the image files and folders the script uses. There is one gen
 
 !['Folders'](images/folders.png)
 
-It also contains several _template_nn_ folders, containing each a _bg.png_ image file and a _fg.png_ image file, needed to generate one specific pin model.
+It also contains several _template_nn_ folders, containing each a _bg.png_ image file and a _fg.png_ image file, needed to generate one specific pin model. For example:
 
 !['Product'](images/template.png)
 
@@ -38,27 +38,28 @@ The product image file name and template numbers are written in a _log.txt_ and 
 __Built With__
 
 This script is made entirely with Python 3.10 and the libraries: _PIL/PILLOW_, for image manipulation, and standard libraries _datetime_, _random_ and _os_.
-&nbsp;
+<br><br>
 
 __Instalation & Usage__
 
 To run this script, just place all three files (_createpins.py, templaes.py, info.py_) in the same folder and then execute the main file _createpins.py_:
 
-```shellsession
+```shell
 $ python createpins.py
 ```
 if the script is set internally to generate _n=3_ pins, then when the pins are created and saved, you will get a message:
-```console
+```shell
 $ Successfully created 3 pins
 ```
 You will find three brand new pins in the _saved_pins_ folder.
 &nbsp;  
+<br><br>
 
 __Contact__
 
 Please feel free to contact me any time for any questions you may have:  
 &nbsp;  
 _agustin.pena.tutor@gmail.com_
-&nbsp;   
+<br><br>
 
-Keep in touch!
+Thanks for stopping by!
