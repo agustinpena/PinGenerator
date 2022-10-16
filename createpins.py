@@ -1,5 +1,4 @@
 # main file; creates the pins for pinterest
-# TODO: add comment to original project about .convert('RGBA')
 
 import templates as tmps
 import info
