@@ -1,6 +1,7 @@
 # Pinterest Pin Generator Script
 
 **Description**
+
 I had the idea for this project as an attempt to automate the task of generating pins for Pinterest to promote my online t-shirt store. Initially I created many (nearly 80) pin templates in svg (vector) format. But using them to create 5 daily pins with a vector image editor proved to be a very monotonic task. So I decided to  use Python to manipulate my pin templates, so that I could create at once as many pins as I wanted.
 
 I briefly describe the image files and folders the script uses. There is one generic folder containing several subfolders: a _product_images_ folder, with all the pictures I want to promote in Pinterest; a _saved_pins_ folder, where the generated pins are saved; and several _template_nn_ folders, containing each a _bg.png_ image file and a _fg.png_ image file, needed to generate one specific pin model.
