@@ -33,7 +33,7 @@ To generate  _n_ pins, the script randomly chooses _n_ images from the _product_
 The product image file name and template numbers are written in a _log.txt_ and a _registry.txt_ respectively, so that the script excludes them when generating the next set of pins, avoiding repetition. After eight executions of the script, a previously used template can be chosen again.
 
 !['Registy & Log'](images/registry_log.png)
-&nbsp;  
+<br><br>  
 
 __Built With__
 
