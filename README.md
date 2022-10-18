@@ -37,7 +37,7 @@ The product image file name and template numbers are written in a _log.txt_ and 
 
 __Built With__
 
-This script is made entirely with Python 3.10 and the libraries: _PIL/PILLOW_, for image manipulation, and standard libraries _datetime_, _random_ and _os_.
+This script is made entirely with Python 3.10 and the libraries _PIL/PILLOW_ for image manipulation, and the standard libraries _datetime_, _random_ and _os_.
 <br><br>
 
 __Instalation & Usage__
