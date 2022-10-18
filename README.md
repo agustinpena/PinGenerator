@@ -62,4 +62,4 @@ Please feel free to contact me any time for any questions you may have:
 _agustin.pena.tutor@gmail.com_
 <br><br>
 
-Thanks for stopping by!
+Thanks for stopping by! 😄
