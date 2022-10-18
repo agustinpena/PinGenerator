@@ -52,7 +52,6 @@ if the script is set internally to generate _n=3_ pins, then when the pins are c
 $ Successfully created 3 pins
 ```
 You will find three brand new pins in the _saved_pins_ folder.
-&nbsp;  
 <br><br>
 
 __Contact__
