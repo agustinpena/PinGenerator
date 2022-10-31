@@ -42,7 +42,7 @@ This script is made entirely with Python 3.10 and the libraries _PIL/PILLOW_ for
 
 __Instalation & Usage__
 
-To run this script, just place all three files (_createpins.py, templaes.py, info.py_) in the same folder and then execute the main file _createpins.py_:
+To run this script, just place all three files (_createpins.py, templates.py, info.py_) in the same folder and then execute the main file _createpins.py_:
 
 ```shell
 $ python createpins.py
