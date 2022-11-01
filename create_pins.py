@@ -1,7 +1,5 @@
 # main file; creates the pins for pinterest
-# version 3.00
-
-# TODO: insert sys.path line into the other modules (is it necessary?)
+# version 3.00 and final
 
 import sys
 import templates as tmps
