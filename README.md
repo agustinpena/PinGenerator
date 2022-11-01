@@ -19,7 +19,7 @@ I briefly describe the image folders and files the script uses. There is one gen
 
 !['Folders'](images/folders.png)
 
-The _templates_ folder contains all the pin templates I created. Each pin template is composed of two image files (a _nn_bg.png_ and a _nn_fg.png_ ), needed to generate one specific pin model.
+The _templates_ folder contains all the pin templates I created. Each pin template is composed of two image files (a _nn_bg.png_ and a _nn_fg.png_), needed to generate one specific pin model.
 
 !['Product'](images/templates.png)
 
@@ -60,6 +60,7 @@ You will find 3 brand new pins in the _saved_pins_ folder. To generate an arbitr
 $ python create_pins.py n
 ```
 <br>
+
 __Contact__
 
 Please feel free to contact me any time for any questions you may have:
