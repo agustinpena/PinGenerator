@@ -1,1 +1,3 @@
 
+This file was created simply in order to create a non-empty folder.
+Do not delete this file unless you want to delete the whole folder.
