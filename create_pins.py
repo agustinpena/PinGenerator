@@ -4,7 +4,6 @@
 # TODO: insert sys.path line into the other modules (is it necessary?)
 
 import sys
-sys.path.insert(0, '/home/joseagustin/Pictures/pins/pintools/modules')
 import templates as tmps
 import info
 import os
