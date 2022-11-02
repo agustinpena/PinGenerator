@@ -1,4 +1,4 @@
-# the templates module contains functions to create individual pins
+# templates module; contains functions to create individual pins
 
 from PIL import Image as Im
 import info
@@ -138,7 +138,7 @@ d37 = d_generic(37, 130, 350)
 
 d38 = d_generic(38, 70, 220)
 
-d39 = d_generic(39, 140, 240,)
+d39 = d_generic(39, 140, 240)
 
 d40 = d_generic(40, 103, 397)
 
@@ -221,5 +221,3 @@ d78 = d_generic(78, 160, 296)
 d79 = d_generic(79, 160, 300)
 
 d80 = d_generic(80, 160, 296)
-
-# ADD NEW TEMPLATES BELOW ########
