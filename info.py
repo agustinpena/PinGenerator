@@ -1,5 +1,5 @@
-# this info module contains functions for text-processing,
-# updating and reading the registy/log files
+# info module; contains functions for text-processing,
+# updating and reading the log_designs/log_pin_template files
 
 import datetime
 import random
