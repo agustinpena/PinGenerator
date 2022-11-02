@@ -9,7 +9,7 @@
 
 &nbsp;
 
-##Description
+## Description
 
 I had the idea for this project as an attempt to automate the task of generating pins for Pinterest to promote my online t-shirt store. Initially I created many (nearly 80) pin templates in svg (vector) format. But using them to create 5 daily pins with a vector image editor proved to be a very monotonic task. So I decided to  use Python to manipulate my pin templates and create at once as many pins as I wanted.
 
@@ -37,12 +37,12 @@ There are four modules: _create_pins.py_, the main module; _templates.py_, conta
 Finally, the script also generates a text file, _pin_info_to_publish.txt_, containing information about each generated pin that is useful for publication, such as numbering, the product image design name and the shortened url to be added to pin in Pinterest (previously stored in another file, called _urls_short.txt_).
 <br><br>
 
-##Built With
+## Built With
 
 This script is written entirely with Python 3.10, and uses the libraries _PIL/PILLOW_ for image manipulation, _datetime_, _random_, _sys_ and _os_.
 <br><br>
 
-##Installation & Usage
+## Installation & Usage
 
 To run this script, just place all four modules (_create_pins.py, templates.py, info.py_ and _config.py_) and the text files (_log_designs.txt_, _log_pin_templates.txt_ and _urls_short.txt_) in the same folder, and then execute the main file _create_pins.py_:
 
@@ -74,7 +74,7 @@ Newly created pins will appear in the saved_pins folder.
 ```
 <br>
 
-##Contact
+## Contact
 
 Please feel free to contact me any time for any questions you may have:
 
