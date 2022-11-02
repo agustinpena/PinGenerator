@@ -4,7 +4,7 @@
 
   * [Description](#description)
   * [Built with](#built-with)
-  * [Installation & Usage](#installation-&-usage)
+  * [Installation & Usage](#installation-and-usage)
   * [Contact](#contact)
 
 &nbsp;
@@ -42,7 +42,7 @@ Finally, the script also generates a text file, _pin_info_to_publish.txt_, conta
 This script is written entirely with Python 3.10, and uses the libraries _PIL/PILLOW_ for image manipulation, _datetime_, _random_, _sys_ and _os_.
 <br><br>
 
-## Installation & Usage
+## Installation and Usage
 
 To run this script, just place all four modules (_create_pins.py, templates.py, info.py_ and _config.py_) and the text files (_log_designs.txt_, _log_pin_templates.txt_ and _urls_short.txt_) in the same folder, and then execute the main file _create_pins.py_:
 
