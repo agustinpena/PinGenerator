@@ -4,7 +4,7 @@
 
   * [Description](#description)
   * [Built with](#built-with)
-  * [Installation & Usage](#installation-and-usage)
+  * [Installation and Usage](#installation-and-usage)
   * [Contact](#contact)
 
 &nbsp;
